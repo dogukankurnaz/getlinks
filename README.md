@@ -1,6 +1,5 @@
-# GetLinks
----------------------------------------
 ## Description
+
 
 it saves the absoult url addresses of the website in the txt file.
 --------------------------------------
